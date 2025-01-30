@@ -1,0 +1,136 @@
+body{
+    background-color:#e2cdd6 ;
+    font-family: Outfit;
+
+}
+.contenu{
+    width: 60%;
+    background-color: white;
+    margin: auto;
+
+}
+.contenu1{
+    width: 90%;
+    margin: auto;
+}
+.contenu1 img{
+    width: 100%;
+}
+.hh1{
+    color:#854632;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
+@font-face {
+    font-family: "Outfit";
+    src: local("Outfit"), local("Outfit"),
+      url("../font/Outfit-VariableFont_wght.ttf");
+    
+  }
+  @font-face {
+    font-family: "youngserif";
+    src: local("youngserif"), local("youngserif"),
+      url("../font/YoungSerif-Regular.ttf");
+    font-weight: bold;
+  }
+.hh{
+    color:#302d2c;
+    font-weight: bold;
+    font-family: youngserif;
+}
+.pp1{
+    font-size: 20px;
+    color:#302d2c;
+}
+.sp1{
+    font-weight: bold;
+    color:#302d2c;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.sp2{
+    color:#302d2c;
+    font-size: 20px;
+}
+.hh2{
+    color:#854632;
+    font-weight: bold;
+    font-family: youngserif;
+
+}
+.li1{
+    position: relative;
+    left:-20px;
+    padding-left: 17px;
+    color:#302d2c;
+    font-size: 20px;
+
+}
+.li2{
+    position: relative;
+    left:-20px;
+    padding-left: 17px;
+    color:#302d2c;
+    font-size: 19px;
+
+}
+.sp3{
+    font-weight: bold;
+}
+.pp2{
+    color:#302d2c;
+    font-size: 20px;
+}
+.uul{
+    list-style-type: none;
+}
+.li3{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1px solid #302d2c ;
+    opacity: 0.7;
+}
+
+.li4{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    opacity: 0.7;
+}
+.sp4{
+     margin-left: 300px;
+     font-weight:bold;
+     color:#854632;
+}
+.sp5{
+    margin-left: 315px;
+    font-weight: bold;
+    color:#854632;
+
+}
+.sp6{
+    margin-left: 305px;
+    font-weight: bold;
+    color:#854632;
+
+}
+.sp7{
+    margin-left: 330px;
+    font-weight: bold;
+    color:#854632;
+
+}
+.hv:hover{
+    background-color: #f1eaee;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+@media all and (max-device-width: 480px)
+ {
+    .contenu{
+        width: 100%;
+        background-color: white;
+        margin: auto;
+    
+    }
+}

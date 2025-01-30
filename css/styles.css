@@ -100,24 +100,24 @@ body{
 .sp4{
      margin-left: 300px;
      font-weight:bold;
-     color:rgb(133, 70, 50,1);
+     color:rgba(133, 70, 50,1);
 }
 .sp5{
     margin-left: 315px;
     font-weight: bold;
-    color:rgb(133, 70, 50,1);
+    color:rgba(133, 70, 50,1);
 
 }
 .sp6{
     margin-left: 305px;
     font-weight: bold;
-    color:rgb(133, 70, 50,1);
+    color:rgba(133, 70, 50,1);
 
 }
 .sp7{
     margin-left: 330px;
     font-weight: bold;
-    color:rgb(133, 70, 50,1);
+    color:rgba(133, 70, 50,1);
 
 }
 .hv:hover{

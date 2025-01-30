@@ -88,36 +88,36 @@ body{
 .li3{
     padding-bottom: 20px;
     padding-top: 20px;
-    border-bottom: 1px solid #302d2c ;
-    opacity: 0.7;
+    border-bottom: 1px solid rgba(48, 45, 44,0.3) ;
+    color:rgba(48, 45, 44,0.7);
 }
 
 .li4{
     padding-bottom: 20px;
     padding-top: 20px;
-    opacity: 0.7;
+    color:rgba(48, 45, 44,0.7);
 }
 .sp4{
      margin-left: 300px;
      font-weight:bold;
-     color:#854632;
+     color:rgb(133, 70, 50,1);
 }
 .sp5{
     margin-left: 315px;
     font-weight: bold;
-    color:#854632;
+    color:rgb(133, 70, 50,1);
 
 }
 .sp6{
     margin-left: 305px;
     font-weight: bold;
-    color:#854632;
+    color:rgb(133, 70, 50,1);
 
 }
 .sp7{
     margin-left: 330px;
     font-weight: bold;
-    color:#854632;
+    color:rgb(133, 70, 50,1);
 
 }
 .hv:hover{
